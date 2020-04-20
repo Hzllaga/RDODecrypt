@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDOPatch", "RDOPatch\RDOPatch.csproj", "{91485F8F-3637-4AF3-9B04-457113D1208D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91485F8F-3637-4AF3-9B04-457113D1208D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91485F8F-3637-4AF3-9B04-457113D1208D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91485F8F-3637-4AF3-9B04-457113D1208D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91485F8F-3637-4AF3-9B04-457113D1208D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779A3196-FB0E-42FD-BCF9-67C218E447B6}
+	EndGlobalSection
+EndGlobal
